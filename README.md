@@ -1,5 +1,5 @@
 # ColombiaTerremotos.github.io
 Support Page App iOS
 
-![Captura de pantalla de la aplicación](./ios1.png)
-![Captura de pantalla de la aplicación](./ios2.png)
+<img src="./ios1.png" alt="Captura de pantalla de la aplicación" width="100"/>
+
